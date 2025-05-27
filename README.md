@@ -2,6 +2,26 @@
 
 这是一个基于 Vue 3 + Node.js + MongoDB 构建的现代化电影推荐系统。
 
+## 界面预览
+
+### 首页
+![首页界面](./src/assets/home.png)
+
+### 电影详情
+![电影详情](./src/assets/movie.png)
+
+### 添加电影
+![添加电影](./src/assets/add.png)
+
+### 个人资料
+![个人资料](./src/assets/profile.png)
+
+### 登录界面
+![登录界面](./src/assets/login.png)
+
+### 注册界面
+![注册界面](./src/assets/register.png)
+
 ## 技术栈
 
 ### 前端
